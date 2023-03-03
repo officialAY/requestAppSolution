@@ -36,6 +36,7 @@ Below are the listed order through which this solution was developed, after whic
     - Project Decision Model
     
  
+ 
  # Design Approach
  The project design model followed the UI - UX - Functionality model in the set order below.
  
@@ -43,7 +44,7 @@ Below are the listed order through which this solution was developed, after whic
    - The user interface was then transformed experiencially using Canvas Apps design object features
    - The application functionalities were developed using Power Fx
   
- #### Design View
+ ### Design View
  ---
  
  _see the design outcome below_
@@ -51,19 +52,19 @@ Below are the listed order through which this solution was developed, after whic
            Home Screen           |          Request Screen         
  
    ![](Images/home_screen.png)         ![](Images/request_screen.png)  
-   
-          #Success Screen
-   ![](Images/success_screen.png)
  
  
-#### Function View
+### Function View
 ---
 
 ![](Images/function_view.png) 
 
-**HELLO!**
 
-**_Let's go check the ALM model, click the ICON below_**
+#### **HELLO!**
+
+I am sure you are getting the feel of how this soluton came about!
+
+**_Now let's go check the ALM model, click the ICON below_**
 
 
 [<img alt="ALM" width="60px" height="60pc" src="Images/alm_icon.png" />](https://github.com/officialAY/requestAppSolution/blob/main/ALM.md)
