@@ -62,10 +62,10 @@ Below are the listed order through which this solution was developed, after whic
 
 **HELLO!**
 
-**_Let's go check the ALM model_**
+**_Let's go check the ALM model, click the ICON below_**
 
-[![ALM](Images/alm_icon.png)](https://github.com/officialAY/requestAppSolution/blob/main/ALM.md)
 
+[<img alt="ALM" width="60px" height="60pc" src="Images/alm_icon.png" />](https://github.com/officialAY/requestAppSolution/blob/main/ALM.md)
 
 
 
