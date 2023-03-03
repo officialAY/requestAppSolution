@@ -23,9 +23,10 @@ This flow charts shows the process model and journey of the implemented automati
 ## Canvas Apps Function
 
 The function used is called the Power Fx, and this was used in various part of the application to achieve the needed behaviours.
+
 The image below shows the function written to check data difference as against each system user, to validate if the condition for the Work From Home request was met.
 
-Below is both the image and the function:
+_Below is both the image and the function:_
 
 ![](Images/function_view.png)
 
