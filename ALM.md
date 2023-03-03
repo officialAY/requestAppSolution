@@ -10,6 +10,8 @@
 
 - **Stringify Prod**: This is the live instance, where all solution users are able to engage the developed solution and use for the daily purpose of making request to work from home as stated in the project overview
 
+![](Images/environments.png)
+
 
 ### Environment Data Location
 
