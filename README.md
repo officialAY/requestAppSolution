@@ -42,9 +42,10 @@ Below are the listed order through which this solution was developed, after whic
     
  _see the design outcome below_
  
-           Home Screen           |          Request Screen          |          Success Screen
+           Home Screen           |          Request Screen         
  
- :------------------------------: | :--------------------------------: | :-------------------------------: 
- 
-   ![](Images/home_screen.png)    |    ![](Images/request_screen.png)     |   ![](Images/success_screen.png)
+   ![](Images/home_screen.png)         ![](Images/request_screen.png)  
+   
+          #Success Screen
+   ![](Images/success_screen.png)
  
