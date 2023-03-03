@@ -43,6 +43,7 @@ Below are the listed order through which this solution was developed, after whic
    - The application functionalities were developed using Power Fx
   
  #### Design View
+ ---
  
  _see the design outcome below_
  
@@ -53,6 +54,19 @@ Below are the listed order through which this solution was developed, after whic
           #Success Screen
    ![](Images/success_screen.png)
  
+ 
 #### Function View
+---
 
 ![](Images/function_view.png) 
+
+**HELLO!**
+
+**_Let's go check the ALM model_**
+
+[![ALM](Images/alm_icon.png)](https://github.com/officialAY/requestAppSolution/blob/main/ALM.md)
+
+
+
+
+
