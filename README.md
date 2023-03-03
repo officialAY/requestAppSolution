@@ -1,9 +1,10 @@
+[<img alt="ALM" width="1360px" height="100pc" src="Images/Doc_GitHub.png" />](https://github.com/officialAY/requestAppSolution/blob/main/ALM.md)
+
 # Request-App-Solution
+
 This repository hold the entire project file for the Request App Solution, the documentations and the GitHub actions for committing changes and deployment.
 
-
-
-# Solution Overview
+## Solution Overview
 This Solution is developed to enable staffs of an organization request for work from home.
 [Click Here!](https://apps.powerapps.com/play/e/c2cb97ea-5be4-e428-91e9-0ea7c802630b/a/f61887d3-093e-43b2-9d53-c8379a927c6d?tenantId=50664edc-62d1-46f8-b702-a1374f8017d9) to access the application.
 
