@@ -44,15 +44,15 @@ jobs:
     - name: who-am-i action
       uses: microsoft/powerplatform-actions/who-am-i@v0
       with:
-        environment-url: ${{env.https://org49627059.crm.dynamics.com}}
-        user-name: ${{env.ayotunde.ayoola@stringifyts.com}}
+        environment-url: ${{https://org49627059.crm.dynamics.com}}
+        user-name: ${{ayotunde.ayoola@stringifyts.com}}
         password-secret: ${{ 2Un8Q~cma_ikEosLufYnyDzym85ohAqSu-AHTaZB }}
 
     - name: export-solution action
       uses: microsoft/powerplatform-actions/export-solution@v0
       with:
-        environment-url: ${{env.https://org49627059.crm.dynamics.com}}
-        user-name: ${{env.ayotunde.ayoola@stringifyts.com}}
+        environment-url: ${{https://org49627059.crm.dynamics.com}}
+        user-name: ${{ayotunde.ayoola@stringifyts.com}}
         password-secret: ${{ 2Un8Q~cma_ikEosLufYnyDzym85ohAqSu-AHTaZB }}
         solution-name: ${{ github.event.inputs.solution_name }}
         solution-output-file: ${{ github.event.inputs.solution_exported_folder}}/${{ github.event.inputs.solution_name }}.zip
