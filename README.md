@@ -41,7 +41,9 @@ Below are the listed order through which this solution was developed, after whic
    - User Interface design using Figma
    - The user interface was then transformed experiencially using Canvas Apps design object features
    - The application functionalities were developed using Power Fx
-    
+  
+ #### Design View
+ 
  _see the design outcome below_
  
            Home Screen           |          Request Screen         
@@ -51,3 +53,6 @@ Below are the listed order through which this solution was developed, after whic
           #Success Screen
    ![](Images/success_screen.png)
  
+#### Function View
+
+![](Images/function_view.png) 
